@@ -5,7 +5,7 @@ const config = {
    * to get following params: client_id, client_secret, refresh_token & redirect_uri.
    */
   refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
+  client_id: '548ab89d-3b7e-4222-a3d3-3cc5d48bbb68',
   client_secret: CLIENT_SECRET,
   redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
 
